@@ -12,8 +12,8 @@
     "src/**/*.ts"
   ],
   "files": [
+    "src/constructorargs.ts",
     "src/portfolio.ts",
-    "src/position.ts",
-    "src/constructorArgs.ts"
+    "src/position.ts"
   ]
 }
