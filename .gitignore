@@ -1,0 +1,12 @@
+coverage/
+node_modules/
+typings/
+npm-debug.log
+
+.idea/.name
+
+.idea/compiler.xml
+
+*.xml
+
+*.iml
